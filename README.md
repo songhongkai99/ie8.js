@@ -4,6 +4,14 @@ Polyfill for JavaScript in Internet Explorer 8. Around 2KB gzipped.
 ## License
 The polyfill source code comes from [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/MDN/About), which are in public domain, therefore this compilation is also released into public domain under [CC0 Public Domain Dedication](LICENSE).
 
+## Usage
+Put this in your HTML.
+```html
+<!--[if lt IE 9]>
+  <script src="ie8.min.js"></script>
+<![endif]-->
+```
+
 ## What’s Inside
 
 Below is a list of things included in this polyfill.
