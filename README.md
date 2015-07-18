@@ -1,8 +1,8 @@
 # ie8.js
-Polyfill for JavaScript in Internet Explorer 8. Around 2KB gzipped.
+Polyfill for JavaScript methods absent in Internet Explorer 8. Around 2KB gzipped.
 
 ## License
-The polyfill source code comes from [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/MDN/About), which are in public domain, therefore this compilation is also released into public domain under [CC0 Public Domain Dedication](LICENSE).
+The polyfill source code comes from [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/MDN/About), which are in public domain, therefore this compilation is also released into public domain under [CC0 Public Domain Dedication](LICENSE). Attribution is neither required nor recommended.
 
 ## Usage
 Put this in your HTML.
